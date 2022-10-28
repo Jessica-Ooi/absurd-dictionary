@@ -1,0 +1,25 @@
+@font-face {
+    font-family: Autography;
+    src: url(autography.otf);
+  }
+
+#results {
+    display:none;
+  }
+html {
+background-color: #79b6d1;
+}
+.bg {
+background-image: linear-gradient(#8cffef, #79c9d1);
+}
+.heading {
+color: #3875e0;
+font-family: Autography;
+text-shadow: 2px 2px 3px #79c9d1;
+}
+
+h2 { 
+    color: #3875e0;
+    font-family: Autography;
+    text-shadow: 2px 2px 3px #79c9d1;
+}
